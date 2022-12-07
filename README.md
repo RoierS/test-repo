@@ -1,4 +1,4 @@
 # test-repo
 
 test
-https://roiers.github.io/test-repo/test.md
+https://roiers.github.io/test-repo/test
